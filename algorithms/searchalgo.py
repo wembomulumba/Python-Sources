@@ -27,7 +27,6 @@ def binary_search_iterative(data, target):
             low = mid + 1 
     return False
 
-print(binary_search_iterative(data, 5))
 
 # Recursive Binary Search
 
@@ -43,4 +42,7 @@ def binary_search_recursive(data, target, low, high):
         else:
             return binary_search_recursive(data, target, mid+1, high)
 
-print(binary_search_recursive(data, target, 0, len(data) -1 ))            
+# calling the recursive function
+print(binary_search_recursive(data, target, 0, len(data) -1 ))  
+# Calling the iterative function
+print(binary_search_iterative(data, 5))
