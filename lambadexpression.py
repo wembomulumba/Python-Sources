@@ -1,4 +1,4 @@
-#lambada express 
+# Python lambda expression
 #combine the first and lastname
 
 def build_quadratic_function(a, b, c):
