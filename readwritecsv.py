@@ -1,3 +1,4 @@
+# Python Data Science Demo: Manipulating CSV downloaded from Internet
 import datetime as dt      
 import matplotlib.pyplot as plt  
 from matplotlib import style   
@@ -7,7 +8,7 @@ import pandas_datareader.data as web
 
 style.use('ggplot')
 
-start = dt.datetime(2017,1,1)
+start = dt.datetime(2017,2,2)
 end = dt.datetime(2018,12,31)
 
 df = web.DataReader('TSLA', 'yahoo', start, end)
