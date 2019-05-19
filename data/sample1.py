@@ -1,4 +1,4 @@
-"Admission Nombre","Le Nom De L'étudiant","Date D'admission","Classe (Start - End)","Session (début - end)","années","Numéro De Mobile","Nom du Tuteur","Téléphone du Tuteur"
+"Admission Number","Le Nom De L'étudiant","Date D'admission","Classe (Start - End)","Session (début - end)","années","Numéro De Mobile","Nom du Tuteur","Téléphone du Tuteur"
 "9000034534534501","TSHISENGO LOUANGE PEZO","09/09/2018","6BC-B CHARITABLE-2  -  6BC-B CHARITABLE-2","2018-19  -  2018-19","1","","Tshindumba Jack","0997135513"
 "900003453453450081","KASHALA MWAKADI","10/19/2018","6BC-B CHARITABLE-2  -  6BC-B CHARITABLE-2","2018-19  -  2018-19","1","","MWARADI TSHITENGE EMERY","0812 2614235"
 "901237771238819","MOMAT VALERIEN BANZA","10/19/2018","6BC-B CHARITABLE-2  -  6BC-B CHARITABLE-2","2018-19  -  2018-19","1","08122029986","ILUNGA MANGALA","08122029986"
