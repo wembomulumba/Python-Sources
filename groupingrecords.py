@@ -1,3 +1,4 @@
+# Python Data Science : Grouping Records
 rows = [
  {'address': '5412 N CLARK', 'date': '07/01/2012'},
  {'address': '5148 N CLARK', 'date': '07/04/2012'},
